@@ -14,5 +14,6 @@
 
 **[Link para o Figma](https://www.figma.com/design/M2gjuZ1dkiLviR5PS7BpL8/Sem-t%C3%ADtulo?node-id=0-1)**
 
-<img width="875" height="823" alt="image" src="https://github.com/user-attachments/assets/287f3b80-9770-4515-8394-d2e306c145b1" />
+<img width="876" height="824" alt="image" src="https://github.com/user-attachments/assets/e8658d28-6a81-45ea-989d-3b9dd04199f2" />
+
 
