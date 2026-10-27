@@ -8,5 +8,5 @@
 
 **[Link para o Figma](https://www.figma.com/design/M2gjuZ1dkiLviR5PS7BpL8/Sem-t%C3%ADtulo?node-id=0-1)**
 
-src="<img width="730" height="340" alt="image" src="https://github.com/user-attachments/assets/be7b6ecf-2b26-4208-9923-b5aa10fef80e" />
-" />
+<img width="730" height="340" alt="image" src="https://github.com/user-attachments/assets/be7b6ecf-2b26-4208-9923-b5aa10fef80e" />
+
