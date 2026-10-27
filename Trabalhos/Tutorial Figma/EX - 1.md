@@ -47,6 +47,14 @@
 <img width="1613" height="569" alt="image" src="https://github.com/user-attachments/assets/efd5c81d-3181-499e-a6e9-b3cb87c746fd" />
 
 
+# Tutorial Figma 9
+
+**[Link para o Figma](https://www.figma.com/design/M2gjuZ1dkiLviR5PS7BpL8/Sem-t%C3%ADtulo?node-id=0-1)**
+
+<img width="1292" height="594" alt="image" src="https://github.com/user-attachments/assets/c14e0628-bb6d-40b2-b108-b602ee6197fb" />
+
+
+
 
 
 
