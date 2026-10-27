@@ -34,6 +34,12 @@
 
 <img width="1350" height="638" alt="image" src="https://github.com/user-attachments/assets/fa69f625-238d-45d7-a2ad-4103c1f9ca96" />
 
+# Tutorial Figma 7
+
+**[Link para o Figma](https://www.figma.com/design/M2gjuZ1dkiLviR5PS7BpL8/Sem-t%C3%ADtulo?node-id=0-1)**
+
+<img width="1611" height="699" alt="image" src="https://github.com/user-attachments/assets/85e00588-aeb6-48a2-9c02-35ba26d9d67a" />
+
 
 
 
